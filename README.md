@@ -1,5 +1,5 @@
 # SwiftStudy
-Swift 공부했던 흔적
+[Swift 공부했던 흔적]
 
 Ground              : 플레이그라운드 기본문법 공부
 
